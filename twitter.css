@@ -1,0 +1,205 @@
+#mynav{
+  height: 48px;
+  align-content: space-between;
+  background-color: : white;
+}
+
+.max{
+  max-width: 100%;
+  max-height: 100%;
+}
+.min{
+  min-width: 100%;
+  min-height: 100%;
+}
+.myitem{
+  text-align: center;
+  font-size: 14px;
+}
+
+.box1{
+  background-color: rgb(113, 201, 248);
+
+}
+.box2{
+  background-color: white;
+}
+
+.r-13gxpu9 {
+  height: 920px;
+    color: rgba(29,161,242,1.00);
+
+}
+.whitebg{
+  background-color: white;
+}
+.bdblue{
+
+  fill: rgba(29,161,242,1.00);
+}
+.search{
+  top: 35%;
+  left: 35%;
+  height: 50px;
+  width: 40px;
+  position: absolute;
+}
+.searchTwo{
+  top: 41.5%;
+  left: 33.5%;
+  height: 50px;
+  width: 40px;
+  position: absolute;
+}
+.searchThree{
+  top: 52.5%;
+  left: 35%;
+  height: 50px;
+  width: 40px;
+  position: absolute;
+}
+.text{
+  top: 36%;
+  left: 42%;
+  position: absolute;
+}
+.textTwo{
+  top: 45%;
+  left: 42%;
+  position: absolute;
+}
+.textThree{
+  top: 53.5%;
+  left: 42%;
+  position: absolute;
+}
+.test{
+  border: 2px solid black;
+}
+
+.bdwhite{
+  fill: white;
+}
+.whtext{
+  color: white;
+  font-size: 23px;
+}
+.flex_container{
+  display: flex;
+}
+.username{
+  height: 60px;
+  width: 210px;
+  background-color: rgb(245, 248, 250);
+  text-align: left;
+}
+.usefont{
+  color: grey;
+  font-size: 15px;
+}
+.userpostion{
+  position: relative;
+  left: 280px;
+  top: 10px;
+}
+.usertype{
+  position: relative;
+  top: 13px;
+  width: 210px;
+}
+.inputuser{
+  width: inherit;
+  border-top: 0px rgb(245, 248, 250);
+  border-left: 0px rgb(245, 248, 250);
+  border-right: 0px rgb(245, 248, 250);
+  background-color: rgb(245, 248, 250);
+}
+.userpass{
+  height: 60px;
+  width: 210px;
+  background-color: rgb(245, 248, 250);
+  text-align: left;
+}
+.passpostion{
+  position: absolute;
+  left: 520px;
+  top: 10px;
+}
+.pad{
+  height: 24px;
+  width:auto;
+  position: relative;
+  left: 8px;
+}
+.forgot{
+  position: absolute;
+  top: 68px;
+  left: 10px;
+  font-size: 13px;
+  color: rgb(27, 149, 224);
+}
+.butPosition{
+  position: absolute;
+  left: 750px;
+  top: 23px;
+}
+.but{
+  border-radius: 20px;
+  font-size: 15px;
+  height: 38px;
+  width: 80px;
+  background-color: white;
+  border-color: rgb(27, 149, 224);
+  color: rgb(27, 149, 224);
+  border-style: solid;
+  border-width: 1px;
+}
+.rest{
+  height: 340px;
+  width: 380px;
+  position: relative;
+  top: 25%;
+  left: 280px;
+}
+.smallBird{
+  height: 50px;
+  width: 50px;
+}
+.see{
+  font-size: 30px;
+  position: relative;
+  top:20px;
+}
+.join{
+  position: relative;
+  top: 65px
+}
+.logBig{
+  position: relative;
+  top: 10px;
+}
+.bigBut{
+  font-size: 15px;
+  height: 40px;
+  width: 380px;
+  text-align: center;
+  border-radius: 20px;
+  background-color: rgb(29, 161, 242);
+  border-color: rgb(27, 149, 224);
+  color: white;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.bigButTwo{
+  font-size: 15px;
+  height: 40px;
+  width: 380px;
+  text-align: center;
+  border-radius: 20px;
+  background-color: white;
+  border-color: rgb(27, 149, 224);
+  color: rgb(27, 149, 224);
+  border-style: solid;
+  border-width: 1px;
+}
